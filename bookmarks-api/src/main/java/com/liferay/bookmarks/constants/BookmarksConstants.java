@@ -17,6 +17,7 @@ package com.liferay.bookmarks.constants;
 /**
  * @author Iván Zaera
  */
+//LPEDELTA-12
 public class BookmarksConstants {
 
 	public static final String SERVICE_NAME = "com.liferay.bookmarks";
